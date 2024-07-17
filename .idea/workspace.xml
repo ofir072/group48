@@ -4,8 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ace11919-7b0f-4d75-96ed-94558d814327" name="Changes" comment="Part A - project system description">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ace11919-7b0f-4d75-96ed-94558d814327" name="Changes" comment="Part B - project FE structure">
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_item/add_item.css" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/add_item/add_item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_item/add_item.html" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/add_item/add_item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_item/add_item.js" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/add_item/add_item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_trade/add_trade.css" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/add_trade/add_trade.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_trade/add_trade.html" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/add_trade/add_trade.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_trade/add_trade.js" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/add_trade/add_trade.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/global/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/global/global.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/home/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/home/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/home/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/index/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/index/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/index/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_items/my_items.css" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/my_items/my_items.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_items/my_items.html" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/my_items/my_items.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_items/my_items.js" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/my_items/my_items.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_trades/my_trades.css" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/my_trades/my_trades.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_trades/my_trades.html" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/my_trades/my_trades.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_trades/my_trades.js" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/my_trades/my_trades.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/add.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/add.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/back.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/confirm.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/confirm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/filter.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/filter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/info.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/info.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/item_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/item_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/item_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/item_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/item_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/item_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/item_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/item_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/item_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/item_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/item_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/item_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/item_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/item_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/item_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/item_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/png/navi_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/png/navi_image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view_trade/view_trade.css" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/view_trade/view_trade.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view_trade/view_trade.html" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/view_trade/view_trade.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view_trade/view_trade.js" beforeDir="false" afterPath="$PROJECT_DIR$/part_b/view_trade/view_trade.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +92,8 @@
       <recent name="C:\Users\אופיר גוטליב\PycharmProjects\group19" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\אופיר גוטליב\PycharmProjects\group19\part_b" />
+      <recent name="C:\Users\אופיר גוטליב\PycharmProjects\group19\part_a" />
       <recent name="C:\Users\אופיר גוטליב\PycharmProjects\group19" />
     </key>
   </component>
@@ -72,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721212462423</updated>
-      <workItem from="1721212463895" duration="949000" />
+      <workItem from="1721212463895" duration="1254000" />
     </task>
     <task id="LOCAL-00001" summary="Part A - project system description">
       <option name="closed" value="true" />
@@ -82,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721212865091</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Part B - project FE structure">
+      <option name="closed" value="true" />
+      <created>1721213499412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721213499412</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Part A - project system description" />
-    <option name="LAST_COMMIT_MESSAGE" value="Part A - project system description" />
+    <MESSAGE value="Part B - project FE structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part B - project FE structure" />
   </component>
 </project>
