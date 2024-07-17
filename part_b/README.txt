@@ -22,6 +22,9 @@ The project is organized into the following directories and files:
 
 ## Usage
 
+0. **General:**
+   - The browser zoom need to be 125% to perfect css fit.
+
 1. **Index Page:**
    - Navigate to `index.html` to view the landing page.
    - To see some base functionalty base on exsist data try the user emails: 1@1, 2@2, 3@3. Local storage is saved for thoes users.
